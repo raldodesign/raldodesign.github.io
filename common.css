@@ -6,6 +6,6 @@ body {
 	background-position: 50% 0%, center;
 }
 
-img {
-	border-style: none;
+a > img {
+	border: 0;
 }

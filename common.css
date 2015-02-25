@@ -6,3 +6,6 @@ body {
 	background-position: 50% 0%, center;
 }
 
+a {
+	border: 0;
+}

@@ -1,0 +1,74 @@
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1169px;
+	 height: 1750px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer5 
+{ 
+	 left: 464px; 
+	 top: 102px; 
+	 position: absolute; 
+	 width: 237px;
+	 height: 232px;
+	 z-index:1;
+} 
+
+ #Layer1 
+{ 
+	 left: 199px; 
+	 top: 451px; 
+	 position: absolute; 
+	 width: 811px;
+	 height: 1260px;
+	 z-index:2;
+	 background-color: #fcdc02;
+	 opacity: 0.36;
+} 
+
+ #Layer2 
+{ 
+	 left: 291px; 
+	 top: 511px; 
+	 position: absolute; 
+	 width: 484px;
+	 height: 61px;
+	 z-index:3;
+} 
+
+ #raldo 
+{ 
+	 left: 1px; 
+	 top: 407px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 93px;
+	 z-index:4;
+} 
+
+ #RALSKSODNDHDSSHIDOSJ 
+{ 
+	 left: 213px; 
+	 top: 519px; 
+	 position: absolute; 
+	 width: 790px;
+	 height: 102px;
+	 z-index:5;
+} 
+
+ #BLOG 
+{ 
+	 left: 562px; 
+	 top: 351px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 16px;
+	 z-index:6;
+} 

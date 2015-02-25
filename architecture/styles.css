@@ -1,0 +1,260 @@
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1169px;
+	 height: 2863px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #ScreenShot20150224at 
+{ 
+	 left: 203px; 
+	 top: 455px; 
+	 position: absolute; 
+	 width: 285px;
+	 height: 211px;
+	 z-index:1;
+} 
+
+ #tenancy1 
+{ 
+	 left: 201px; 
+	 top: 735px; 
+	 position: absolute; 
+	 width: 286px;
+	 height: 219px;
+	 z-index:2;
+} 
+
+ #Layer9copy 
+{ 
+	 left: 0px; 
+	 top: 376px; 
+	 position: fixed; 
+	 width: 80px;
+	 height: 158px;
+	 z-index:3;
+} 
+
+ #Layer1 
+{ 
+	 left: 203px; 
+	 top: 1027px; 
+	 position: absolute; 
+	 width: 288px;
+	 height: 282px;
+	 z-index:4;
+} 
+
+ #raldo 
+{ 
+	 left: 520px; 
+	 top: 204px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 125px;
+	 z-index:5;
+} 
+
+ #ARCHITECTURE 
+{ 
+	 left: 511px; 
+	 top: 351px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 16px;
+	 z-index:6;
+} 
+
+ #Layer2 
+{ 
+	left: 50%; 
+	right: 0px;
+	top: 472px; 
+	position: absolute; 
+	height: 6px;
+	z-index:7;
+	background-color: black;
+} 
+
+ #Layer11copy 
+{ 
+	 left: 50%; 
+	 top: 736px; 
+	 position: absolute; 
+	 height: 24px;
+	 right: 0px;
+	 background-color: white;
+	 z-index:-1;
+} 
+
+ #Layer11copy2 
+{ 
+	 left: 50%; 
+	 top: 1024px; 
+	 position: absolute; 
+	 height: 24px;
+	 right: 0px;
+	 background-color: white;
+	 z-index:-1;
+} 
+
+ #Layer11copy3 
+{ 
+	 left: 50%; 
+	 top: 1367px; 
+	 position: absolute; 
+	 height: 24px;
+	 right: 0px;
+	 background-color: white;
+	 z-index:-1;
+} 
+
+ #Layer11copy4 
+{ 
+	 left: 50%; 
+	 top: 1843px; 
+	 position: absolute; 
+	 height: 24px;
+	 right: 0px;
+	 background-color: white;
+	 z-index:-1;
+} 
+
+ #Layer11copy5 
+{ 
+	 left: 50%; 
+	 top: 2369px; 
+	 position: absolute; 
+	 height: 24px;
+	 right: 0px;
+	 background-color: white;
+	 z-index:-1;
+} 
+
+ #TinyHouseThisproject 
+{ 
+	 left: 589px; 
+	 top: 453px; 
+	 position: absolute; 
+	 width: 414px;
+	 height: 126px;
+	 z-index:13;
+} 
+
+ #SummerhayesIn2014whi 
+{ 
+	 left: 590px; 
+	 top: 740px; 
+	 position: absolute; 
+	 width: 507px;
+	 height: 218px;
+	 z-index:14;
+} 
+
+ #CanaryHillIn2011whil 
+{ 
+	 left: 590px; 
+	 top: 1368px; 
+	 position: absolute; 
+	 width: 506px;
+	 height: 266px;
+	 z-index:15;
+} 
+
+ #ScreenShot20150224at_0 
+{ 
+	 left: 201px; 
+	 top: 2371px; 
+	 position: absolute; 
+	 width: 286px;
+	 height: 213px;
+	 z-index:16;
+} 
+
+ #Layer3 
+{ 
+	 left: 202px; 
+	 top: 1370px; 
+	 position: absolute; 
+	 width: 286px;
+	 height: 408px;
+	 z-index:17;
+} 
+
+ #Layer6 
+{ 
+	 left: 201px; 
+	 top: 1845px; 
+	 position: absolute; 
+	 width: 289px;
+	 height: 461px;
+	 z-index:18;
+} 
+
+ #Layer4 
+{ 
+	 left: 1050px; 
+	 top: 2649px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 66px;
+	 z-index:19;
+} 
+
+ #BolivianmadnessIn201 
+{ 
+	 left: 590px; 
+	 top: 1027px; 
+	 position: absolute; 
+	 width: 510px;
+	 height: 256px;
+	 z-index:20;
+} 
+
+ #MrsrobinsonThehousea 
+{ 
+	 left: 589px; 
+	 top: 1845px; 
+	 position: absolute; 
+	 width: 506px;
+	 height: 266px;
+	 z-index:21;
+} 
+
+ #BowerDuringthedrysea 
+{ 
+	 left: 589px; 
+	 top: 2371px; 
+	 position: absolute; 
+	 width: 504px;
+	 height: 266px;
+	 z-index:22;
+} 
+
+ #Layer5 
+{ 
+	 left: 980px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 110px;
+	 z-index:23;
+} 
+
+ #products 
+{ 
+	 left: 0px;
+	 top: 2717px; 
+	 width: 117px;
+	 height: 116px;
+	 z-index:5;
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+} 

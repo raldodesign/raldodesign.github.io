@@ -1,0 +1,82 @@
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1169px;
+	 height: 1250px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #photo2 
+{ 
+	 left: 4px; 
+	 top: 405px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 93px;
+	 z-index:1;
+} 
+
+ #CONTACTSSTOCKISTS 
+{ 
+	 left: 517px; 
+	 top: 351px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 46px;
+	 z-index:2;
+} 
+
+ #Layer12 
+{ 
+	 left: 465px; 
+	 top: 100px; 
+	 position: absolute; 
+	 width: 232px;
+	 height: 234px;
+	 z-index:3;
+} 
+
+ #Layer13 
+{ 
+	 left: 205px; 
+	 top: 452px; 
+	 position: absolute; 
+	 width: 457px;
+	 height: 149px;
+	 z-index:4;
+} 
+
+ #EMAILemeraldwiseY7MA 
+{ 
+	 left: 212px; 
+	 top: 461px; 
+	 position: absolute; 
+	 width: 448px;
+	 height: 136px;
+	 z-index:5;
+} 
+
+ #Layer14 
+{ 
+	 left: 302px; 
+	 top: 598px; 
+	 position: absolute; 
+	 width: 668px;
+	 height: 612px;
+	 z-index:6;
+} 
+
+ #WESTERNAUSTRALIABHDJ 
+{ 
+	 left: 552px; 
+	 top: 634px; 
+	 position: absolute; 
+	 width: 405px;
+	 height: 556px;
+	 z-index:7;
+} 

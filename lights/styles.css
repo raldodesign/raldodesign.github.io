@@ -1,0 +1,135 @@
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1169px;
+	 height: 1138px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #layer_9 
+{ 
+	 left: 201px; 
+	 top: 688px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 193px;
+	 z-index:1;
+} 
+
+ #StarLightsStarlights 
+{ 
+	 left: 589px; 
+	 top: 695px; 
+	 position: absolute; 
+	 width: 503px;
+	 height: 218px;
+	 z-index:2;
+} 
+
+ #photo2 
+{ 
+	 left: 521px; 
+	 top: 205px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 124px;
+	 z-index:3;
+} 
+
+ #LIGHTING 
+{ 
+	 left: 543px; 
+	 top: 351px; 
+	 position: absolute; 
+	 width: 91px;
+	 height: 16px;
+	 z-index:4;
+} 
+
+ #Layer11 
+{ 
+	 left: 50%;
+	 right: 0px; 
+	 top: 449px; 
+	 position: absolute; 
+	 height: 24px;
+	 z-index:-1;
+	 background-color: white;
+} 
+
+ #FragileIndustryThese 
+{ 
+	 left: 589px; 
+	 top: 455px; 
+	 position: absolute; 
+	 width: 485px;
+	 height: 163px;
+	 z-index:6;
+} 
+
+ #ScreenShot20150224at 
+{ 
+	 left: 202px; 
+	 top: 454px; 
+	 position: absolute; 
+	 width: 289px;
+	 height: 201px;
+	 z-index:7;
+} 
+
+ #photo1 
+{ 
+	 left: 458px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 247px;
+	 height: 143px;
+	 z-index:8;
+} 
+
+ #Layer15 
+{ 
+	 left: 460px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 244px;
+	 height: 122px;
+	 z-index:9;
+} 
+
+ #photo1_0 
+{ 
+	 left: 0px; 
+	 top: 334px; 
+	 position: fixed; 
+	 width: 115px;
+	 height: 157px;
+	 z-index:10;
+} 
+
+ #Layer16 
+{ 
+	 left: 0px; 
+	 top: 325px; 
+	 position: fixed; 
+	 width: 106px;
+	 height: 159px;
+	 z-index:11;
+} 
+
+ #products 
+{ 
+	 left: 0px;
+	 top: 992px; 
+	 width: 117px;
+	 height: 116px;
+	 z-index:5;
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+} 

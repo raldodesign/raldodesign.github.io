@@ -1,0 +1,112 @@
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1169px;
+	 height: 1108px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #photo1 
+{ 
+	 left: 320px; 
+	 top: 446px; 
+	 position: absolute; 
+	 width: 236px;
+	 height: 236px;
+	 z-index:1;
+} 
+
+ #photo1_0 
+{ 
+	 left: 611px; 
+	 top: 446px; 
+	 position: absolute; 
+	 width: 229px;
+	 height: 233px;
+	 z-index:2;
+} 
+
+ #Layer1 
+{ 
+	 left: 317px; 
+	 top: 736px; 
+	 position: absolute; 
+	 width: 237px;
+	 height: 233px;
+	 z-index:3;
+} 
+
+ #Layer2 
+{ 
+	 left: 609px; 
+	 top: 735px; 
+	 position: absolute; 
+	 width: 232px;
+	 height: 233px;
+	 z-index:4;
+} 
+
+ #PRODUCTS 
+{ 
+	 left: 325px; 
+	 top: 692px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 16px;
+	 z-index:5;
+} 
+
+ #ABOUT 
+{ 
+	 left: 615px; 
+	 top: 692px; 
+	 position: absolute; 
+	 width: 70px;
+	 height: 16px;
+	 z-index:6;
+} 
+
+ #BlOG 
+{ 
+	 left: 328px; 
+	 top: 978px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 16px;
+	 z-index:7;
+} 
+
+ #CONTACTSTOCKISTS 
+{ 
+	 left: 612px; 
+	 top: 978px; 
+	 position: absolute; 
+	 width: 237px;
+	 height: 16px;
+	 z-index:8;
+} 
+
+ #DESIGN 
+{ 
+	 left: 548px; 
+	 top: 348px; 
+	 position: absolute; 
+	 width: 72px;
+	 height: 16px;
+	 z-index:9;
+} 
+
+ #raldo 
+{ 
+	 left: 521px; 
+	 top: 204px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 124px;
+	 z-index:10;
+} 

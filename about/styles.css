@@ -1,0 +1,114 @@
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1169px;
+	 height: 2090px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #photo1 
+{ 
+	 left: 470px; 
+	 top: 92px; 
+	 position: absolute; 
+	 width: 229px;
+	 height: 233px;
+	 z-index:1;
+} 
+
+ #Layer1 
+{ 
+	 left: 195px; 
+	 top: 499px; 
+	 position: absolute; 
+	 width: 811px;
+	 height: 1546px;
+	 z-index:2;
+	 background-color: #fcdc02;
+	 opacity: 0.36;
+} 
+
+ #Layer2 
+{ 
+	 left: 428px; 
+	 top: 649px; 
+	 position: absolute; 
+	 width: 554px;
+	 height: 24px;
+	 z-index:3;
+} 
+
+ #Layer2copy8 
+{ 
+	 left: 202px; 
+	 top: 505px; 
+	 position: absolute; 
+	 width: 698px;
+	 height: 212px;
+	 z-index:4;
+} 
+
+ #Layer3 
+{ 
+	 left: 859px; 
+	 top: 882px; 
+	 position: absolute; 
+	 width: 136px;
+	 height: 24px;
+	 z-index:5;
+} 
+
+ #Layer3copy 
+{ 
+	 left: 879px; 
+	 top: 1841px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 24px;
+	 z-index:6;
+} 
+
+ #Layer4 
+{ 
+	 left: 614px; 
+	 top: 928px; 
+	 position: absolute; 
+	 width: 377px;
+	 height: 608px;
+	 z-index:7;
+} 
+
+ #raldo 
+{ 
+	 left: 0px; 
+	 top: 437px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 93px;
+	 z-index:8;
+} 
+
+ #RALDORALDOisaFremant 
+{ 
+	 left: 214px; 
+	 top: 516px; 
+	 position: absolute; 
+	 width: 773px;
+	 height: 1505px;
+	 z-index:9;
+} 
+
+ #ABOUT 
+{ 
+	 left: 552px; 
+	 top: 341px; 
+	 position: absolute; 
+	 width: 70px;
+	 height: 16px;
+	 z-index:10;
+} 

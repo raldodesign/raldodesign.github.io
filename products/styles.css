@@ -14,7 +14,7 @@
  #raldo 
 { 
 	 left: 519px; 
-	 top: 200px; 
+	 top: 104px; 
 	 position: absolute; 
 	 width: 128px;
 	 height: 124px;
@@ -24,7 +24,7 @@
  #products 
 { 
 	 left: 528px; 
-	 top: 348px; 
+	 top: 248px; 
 	 position: absolute; 
 	 width: 72px;
 	 height: 16px;
@@ -33,11 +33,11 @@
 
  #photo1 
 { 
-	 left: 205px; 
-	 top: 506px; 
+	 left: 320px; 
+	 top: 346px; 
 	 position: absolute; 
-	 width: 808px;
-	 height: 811px;
+	 width: 552px;
+	 height: 552px;
 	 z-index:2;
  	background-image: url("images/hatch.png");
 	background-position: 50% 0%, center;
@@ -45,11 +45,11 @@
 
  #Layer1 
 { 
-	 left: 202px; 
-	 top: 506px; 
+	 left: 320px; 
+	 top: 346px; 
 	 position: absolute; 
-	 width: 811px;
-	 height: 811px;
+	 width: 552px;
+	 height: 552px;
 	 z-index:3;
 	 background-color: #fff54d;
 	 opacity: 0.7;
@@ -58,7 +58,7 @@
  #art 
 { 
 	 left: 961px; 
-	 top: 1538px; 
+	 top: 1438px; 
 	 position: absolute; 
 	 width: 73px;
 	 height: 96px;
@@ -68,7 +68,7 @@
  #lights 
 { 
 	 left: 119px; 
-	 top: 770px; 
+	 top: 670px; 
 	 position: absolute; 
 	 width: 254px;
 	 height: 74px;
@@ -78,7 +78,7 @@
  #ceramics 
 { 
 	 left: 497px; 
-	 top: 1258px; 
+	 top: 1158px; 
 	 position: absolute; 
 	 width: 138px;
 	 height: 56px;
@@ -88,7 +88,7 @@
  #archi 
 { 
 	 left: 915px; 
-	 top: 535px; 
+	 top: 435px; 
 	 position: absolute; 
 	 width: 52px;
 	 height: 67px;

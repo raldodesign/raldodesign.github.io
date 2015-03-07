@@ -209,3 +209,15 @@
 	 margin-left: auto; 
 	 margin-right: auto; 
 } 
+
+ #products-text 
+{ 
+	 left: 0px;
+	 top: 1509px; 
+	 width: 120px;
+	 height: 16px;
+	 z-index:5;
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+} 

@@ -65,6 +65,13 @@
 	 z-index:4;
 } 
 
+ #art img.text
+{ 
+	 left: 40px; 
+	 top: 90px; 
+	 position: absolute; 
+} 
+
  #lights 
 { 
 	 left: 225px; 
@@ -73,6 +80,12 @@
 	 width: 254px;
 	 height: 74px;
 	 z-index:5;
+} 
+
+ #lights img.text
+{ 
+	 left: 30px; 
+	 position: absolute; 
 } 
 
  #ceramics 
@@ -85,6 +98,12 @@
 	 z-index:6;
 } 
 
+ #ceramics img.text
+{ 
+	 right: 15px; 
+	 position: absolute; 
+} 
+
  #archi 
 { 
 	 left: 800px; 
@@ -94,3 +113,26 @@
 	 height: 67px;
 	 z-index:7;
 } 
+
+ #archi img.text
+{ 
+	 left: -30px; 
+	 position: absolute; 
+} 
+
+.hover img.icon {
+	opacity: 1;
+}
+
+.hover:hover img.icon {
+	opacity: 0.5;
+}
+
+.hover img.text {
+	display: none;
+	top: 100%;
+}
+
+.hover:hover img.text {
+	display: inline;
+}

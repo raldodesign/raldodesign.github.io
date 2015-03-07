@@ -6,7 +6,7 @@
 	 margin-left: auto; 
 	 margin-right: auto; 
 	 width: 1169px;
-	 height: 1138px; 
+	 height: 1038px; 
 	 overflow: hidden;
 	 z-index:0;
 	} 
@@ -14,7 +14,7 @@
  #layer_9 
 { 
 	 left: 201px; 
-	 top: 688px; 
+	 top: 588px; 
 	 position: absolute; 
 	 width: 290px;
 	 height: 193px;
@@ -24,7 +24,7 @@
  #StarLightsStarlights 
 { 
 	 left: 589px; 
-	 top: 695px; 
+	 top: 595px; 
 	 position: absolute; 
 	 width: 503px;
 	 height: 218px;
@@ -34,7 +34,7 @@
  #photo2 
 { 
 	 left: 521px; 
-	 top: 205px; 
+	 top: 104px; 
 	 position: absolute; 
 	 width: 127px;
 	 height: 124px;
@@ -44,7 +44,7 @@
  #LIGHTING 
 { 
 	 left: 543px; 
-	 top: 351px; 
+	 top: 251px; 
 	 position: absolute; 
 	 width: 91px;
 	 height: 16px;
@@ -55,7 +55,7 @@
 { 
 	 left: 50%;
 	 right: 0px; 
-	 top: 449px; 
+	 top: 349px; 
 	 position: absolute; 
 	 height: 24px;
 	 z-index:-1;
@@ -65,7 +65,7 @@
  #FragileIndustryThese 
 { 
 	 left: 589px; 
-	 top: 455px; 
+	 top: 355px; 
 	 position: absolute; 
 	 width: 485px;
 	 height: 163px;
@@ -75,7 +75,7 @@
  #ScreenShot20150224at 
 { 
 	 left: 202px; 
-	 top: 454px; 
+	 top: 354px; 
 	 position: absolute; 
 	 width: 289px;
 	 height: 201px;
@@ -84,7 +84,7 @@
 
  #photo1 
 { 
-	 left: 458px; 
+	 left: 880px; 
 	 top: 0px; 
 	 position: absolute; 
 	 width: 247px;
@@ -94,7 +94,7 @@
 
  #Layer15 
 { 
-	 left: 460px; 
+	 left: 882px; 
 	 top: 0px; 
 	 position: absolute; 
 	 width: 244px;
@@ -105,7 +105,7 @@
  #photo1_0 
 { 
 	 left: 0px; 
-	 top: 334px; 
+	 top: 234px; 
 	 position: fixed; 
 	 width: 115px;
 	 height: 157px;
@@ -115,7 +115,7 @@
  #Layer16 
 { 
 	 left: 0px; 
-	 top: 325px; 
+	 top: 225px; 
 	 position: fixed; 
 	 width: 106px;
 	 height: 159px;
@@ -125,7 +125,7 @@
  #products 
 { 
 	 left: 0px;
-	 top: 992px; 
+	 top: 892px; 
 	 width: 117px;
 	 height: 116px;
 	 z-index:5;

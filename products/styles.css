@@ -58,17 +58,17 @@
  #art 
 { 
 	 left: 890px; 
-	 top: 800px; 
+	 top: 850px; 
 	 position: absolute; 
-	 width: 73px;
-	 height: 96px;
+	 width: 36px;
+	 height: 36px;
 	 z-index:4;
 } 
 
  #art img.text
 { 
-	 left: 40px; 
-	 top: 90px; 
+	 left: 7px; 
+	 top: 45px; 
 	 position: absolute; 
 } 
 
